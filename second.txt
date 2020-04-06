@@ -1,1 +1,2 @@
 hello
+changes in the second line of second file

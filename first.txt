@@ -1,2 +1,7 @@
 this is first file
 changes on the second line
+<<<<<<< Updated upstream
+changes on the third line
+=======
+third line
+>>>>>>> Stashed changes
