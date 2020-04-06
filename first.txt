@@ -5,3 +5,7 @@ changes on the third line
 =======
 third line
 >>>>>>> Stashed changes
+
+
+some changes
+
