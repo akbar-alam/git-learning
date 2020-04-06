@@ -1,2 +1,4 @@
 hello
 changes in the second line of second file
+
+changed occur through a different developer to our remote repo
